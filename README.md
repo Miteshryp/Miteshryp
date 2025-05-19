@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitesh</h1>
-<h3 align="center">A passionate engineeri from India interested in exploring optimizations and design of systems!</h3>
+<h3 align="center">A passionate software engineer from India interested in exploring optimizations and system designs!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshryp&label=Profile%20views&color=0e75b6&style=flat" alt="miteshryp" /> </p>
 
