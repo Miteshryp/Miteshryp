@@ -37,7 +37,7 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/rust.svg" alt="rust" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"> <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" alt="Vulkan" width="100" height="40"/> </a>
-<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="Cuda" width="80" height="80"/> </a>
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="Cuda" width="120" height="80"/> </a>
 </p>
 
 
