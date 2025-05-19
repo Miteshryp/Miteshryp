@@ -39,6 +39,8 @@
 <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"> <img src="https://www.vulkan.org/user/themes/vulkan/images/logo/vulkan-logo.svg" alt="Vulkan" width="100" height="40"/> </a>
 <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Nvidia_CUDA_Logo.jpg" alt="Cuda" width="120" height="50"/> </a>
 <a href="https://www.openmp.org/" target="_blank" rel="noreferrer"> <img src="https://www.openmp.org/wp-content/uploads/openmp-header-logo-100h.png" alt="OpenMP" width="120" height="50"/> </a>
+<a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" alt="OpenTelemetry" width="120" height="50"/> </a>
+
 
 </p>
 
