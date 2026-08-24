@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **miteshryp@gmail.com**
 
-- ⚡ Fun fact **I have been trained in Hindustani Classical Music since I was 5 years old**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
