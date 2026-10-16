@@ -1,18 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mitesh</h1>
-<h3 align="center">A passionate software engineer from India interested in exploring optimizations and system designs!</h3>
+<h3 align="center">A passionate compiler engineer from India interested in working on Compiler Optimizations for ML Systems and Architectures!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshryp&label=Profile%20views&color=0e75b6&style=flat" alt="miteshryp" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miteshryp" alt="miteshryp" /></a> </p>
--->
-
-
 - 🌱 I’m currently learning **Concepts in High Performance Systems and Parallel programming**
-
-- 📝 I regularly write articles on [https://miteshcodes.substack.com/](https://miteshcodes.substack.com/)
-
-- 💬 Ask me about **Designing and optimizing all types of computational systems.**
-
+- 📝 Blog Page: https://miteshryp.github.io/blogs
 - 📫 How to reach me **miteshryp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
