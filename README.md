@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miteshryp&label=Profile%20views&color=0e75b6&style=flat" alt="miteshryp" /> </p>
 
-- 🌱 I’m currently learning **HPC, ML Systems and Parallel Programming**. I am also interested in exploring Applications of **Formal Methods for Programming Languages and Verification**
+- Currently working in **HPC, ML Systems and Parallel Programming**.
+- Also interested in exploring Applications of **Formal Methods for Programming Languages and Verification**
 - 🌐 Website: https://miteshryp.github.io
 - 📝 Blog Page: https://miteshryp.github.io/blogs
 - 📫 How to reach me **miteshryp@gmail.com**
