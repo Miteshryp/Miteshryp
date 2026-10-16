@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-https://upload.wikimedia.org/wikipedia/commons/0/0e/MLIR_Logo.svg
+
 <a href="https://mlir.llvm.org" target="_blank" rel="noreferrer"> <img src="https://mlir.llvm.org//mlir-logo.png" alt="MLIR" width="40" height="40"/> </a> 
 <a href="https://llvm.org" target="_blank" rel="noreferrer"> <img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="LLVM" width="40" height="40"/> </a>
 <!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  -->
